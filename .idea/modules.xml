@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GravityImageView.iml" filepath="$PROJECT_DIR$/GravityImageView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ImageViews.iml" filepath="$PROJECT_DIR$/ImageViews.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gravityimageview/gravityimageview.iml" filepath="$PROJECT_DIR$/gravityimageview/gravityimageview.iml" />
+    </modules>
+  </component>
+</project>
